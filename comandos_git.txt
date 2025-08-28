@@ -1,0 +1,4 @@
+cd -  navegar pelas pastas
+rm -rf - apaga diretorio
+ls - mostra lista de arquivos
+ls -a - mostra lista de arquivos e os ocultos
