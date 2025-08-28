@@ -1,1 +1,3 @@
 comandos secundarios git
+
+comandos mais genericos
