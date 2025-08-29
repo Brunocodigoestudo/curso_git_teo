@@ -1,7 +1,7 @@
-cd ->  navegar pelas pastas
-rm -rf -> apaga diretorio
-ls -> mostra lista de arquivos
-ls -a -> mostra lista de arquivos e os ocultos
-cat -> exibe conteudo do arquivo
+cd ->  navegar pelas pastas - pablo
+rm -rf -> apaga diretorio - pablo
+ls -> mostra lista de arquivos - pablo
+ls -a -> mostra lista de arquivos e os ocultos - pablo
+cat -> exibe conteudo do arquivo - pablo
 
 curso top
